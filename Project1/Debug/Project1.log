@@ -1,0 +1,6 @@
+﻿  source.cpp
+c:\users\калматк\source\repos\project1\project1\source.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\калматк\source\repos\project1\project1\source.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\калматк\source\repos\project1\project1\source.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\калматк\source\repos\project1\project1\source.cpp(29): warning C4101: s_t: неиспользованная локальная переменная
+  Project1.vcxproj -> C:\Users\КалматК\source\repos\Project1\Debug\Project1.exe

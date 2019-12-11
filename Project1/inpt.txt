@@ -1,0 +1,10 @@
+car1 10
+car2 5
+car3 10
+car4 15
+car5 5
+car6 5
+car7 10
+car8 15
+car9 5
+car10 10
